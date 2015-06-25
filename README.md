@@ -4,12 +4,14 @@ https://www.sinch.com/docs/verification/rest/
 
 It only supports SMS wich is really the only mehtod you should use serverside at the moment. 
 
-Installation
+**Installation**
+
 ```ruby
 pm> install-package Sinch.Verification
 ```
 
 **Usage**
+
 ```csharp
 public async Task<VerificationResponse> StartVerification()
 {
