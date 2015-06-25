@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <dependencies>
+      <group targetFramework="net45">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.3" />
+        <dependency id="Newtonsoft.Json" version="7.0.1" />
+        <dependency id="Sinch.Core" version="1.0.5.0" />
+      </group>
+    </dependencies>
+    <id>Sinch.Verification</id>
+    <version>0.9.1.0</version>
+    <title>Sinch.Verification</title>
+    <authors>Christian Jensen</authors>
+    <owners>Sinch inc</owners>
+    <description>Sinch client for using Sinch Rest Verification api 
+https://www.sinch.com/docs/verification/rest/</description>
+    <language />
+    <projectUrl>https://github.com/sinch/nuget-sinch.verification</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <copyright>Copyright ©  2015</copyright>
+  </metadata>
+  <files>
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Debug\Sinch.Verification.dll" target="lib\net45" />
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Debug\Sinch.Verification.pdb" target="lib\net45" />
+  </files>
+</package>
