@@ -2,8 +2,10 @@
 Full documenation for the rest apis can be found here
 https://www.sinch.com/docs/verification/rest/
 
-Click here for more [Verifiation Tutorials](https://www.sinch.com/tutorials/?tags%5B%5D=verification&utm_source=sinch&utm_medium=xlink&utm_campaign=verifyall)
 It only supports SMS wich is really the only mehtod you should use serverside at the moment. 
+
+Click here for more [Verifiation Tutorials](https://www.sinch.com/tutorials/?tags%5B%5D=verification&utm_source=sinch&utm_medium=xlink&utm_campaign=verifyall)
+
 
 **Installation**
 
