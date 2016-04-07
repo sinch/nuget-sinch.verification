@@ -9,10 +9,9 @@
       </group>
     </dependencies>
     <id>Sinch.Verification</id>
-    <version>0.9.1.0</version>
+    <version>0.9.2.0</version>
     <title>Sinch.Verification</title>
     <authors>Christian Jensen</authors>
-    <owners>Sinch inc</owners>
     <description>Sinch client for using Sinch Rest Verification api 
 https://www.sinch.com/docs/verification/rest/</description>
     <language />
@@ -22,7 +21,7 @@ https://www.sinch.com/docs/verification/rest/</description>
     <copyright>Copyright ©  2015</copyright>
   </metadata>
   <files>
-    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Debug\Sinch.Verification.dll" target="lib\net45" />
-    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Debug\Sinch.Verification.pdb" target="lib\net45" />
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Release\Sinch.Verification.dll" target="lib\net45" />
+    <file src="C:\Users\Christian\Documents\github\SinchNuget\Sinch.Verification\Sinch.Verification\bin\Release\Sinch.Verification.pdb" target="lib\net45" />
   </files>
 </package>
